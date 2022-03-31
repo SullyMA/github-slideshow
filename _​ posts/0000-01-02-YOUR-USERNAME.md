@@ -2,4 +2,4 @@
 layout: slide
 title: “Welcome to our second slide!” ---
 Your test
-Use the left arrow to go back!
+Click the left arrow to return to the main menu.
